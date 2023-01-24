@@ -8,3 +8,6 @@ This Component displays the word "loading" before it downloads the data from the
 
 ### DeleteItemInArray
 This Component displays a list containing a group of items. The user can delete any selected item
+
+### ShortCircuit
+This Component displays the Cases in which Short-Circuit evaluation (&& - ||) is used and a basics explanation thereof
