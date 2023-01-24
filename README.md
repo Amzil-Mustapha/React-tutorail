@@ -1,5 +1,3 @@
-# Books WebSite SPA
+# React-tutorail
 
-This Project Created By React Library
-
-## This page has been created only to learn and apply ReactJs
+### This repo contains exercises and tasks that I did when I was studying ReactJs.
