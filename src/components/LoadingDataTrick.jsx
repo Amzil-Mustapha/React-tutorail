@@ -35,7 +35,8 @@ const LoadingDataTrick = () => {
   if (isLoading) {
     return (
       <div>
-        <h1>Loading ...</h1>
+        {/*The Spinner Code Can Added Here Instead Of h1 */}
+        <h1>Loading ...</h1>{" "}
       </div>
     );
   }
