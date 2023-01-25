@@ -20,3 +20,6 @@ This Component displays how to add items to a list and clear the list
 
 ### MultipleInputs
 Like AddItemsToList component, but in this component all inputs are controlled by one changeHandler function and this method is used in case there are a large number of inputs
+
+### UseRef
+This component uses a combination of state and refs. Both startTime and now are state variables because they are used for rendering. But we also need to hold an interval ID so that we can stop the interval on button press. Since the interval ID is not used for rendering, it’s appropriate to keep it in a ref, and manually update it.
