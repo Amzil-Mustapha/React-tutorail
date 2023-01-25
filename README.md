@@ -16,4 +16,7 @@ This Component displays the Cases in which Short-Circuit evaluation (&& - ||) is
 This Component displays how controled inputs in react function components
 
 ### AddItemsToList
-This Component displays how to add items to a list 
+This Component displays how to add items to a list and clear the list
+
+### MultipleInputs
+Like AddItemsToList component, but in this component all inputs are controlled by one changeHandler function and this method is used in case there are a large number of inputs

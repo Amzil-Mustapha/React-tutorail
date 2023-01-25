@@ -28,8 +28,9 @@ const AddItemsToList = () => {
       </form>
 
       <ul>
-        {tasks.map((ele, i) => {
-          return <li key={i}>{ele}</li>;
+        {/* When you want to remove items then don't use index is a key item*/}
+        {tasks.map((ele, index) => {
+          return <li key={index}>{ele}</li>;
         })}
       </ul>
     </>
