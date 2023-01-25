@@ -11,3 +11,6 @@ This Component displays a list containing a group of items. The user can delete 
 
 ### ShortCircuit
 This Component displays the Cases in which Short-Circuit evaluation (&& - ||) is used and a basics explanation thereof
+
+### Forms 
+This Component displays how controled inputs in react function components

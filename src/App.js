@@ -1,4 +1,5 @@
 import React from 'react'
+import Forms from './components/Forms'
 import LoadingDataTrick from './components/LoadingDataTrick'
 import ShortCircuit from './components/ShortCircuit'
 import UseEffectFetchData from './components/UseEffectFetchData'
@@ -8,7 +9,7 @@ export default function App() {
 
   return (
     <>
-    <ShortCircuit/>
+    <Forms/>
     
     </>
   )
