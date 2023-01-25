@@ -14,3 +14,6 @@ This Component displays the Cases in which Short-Circuit evaluation (&& - ||) is
 
 ### Forms 
 This Component displays how controled inputs in react function components
+
+### AddItemsToList
+This Component displays how to add items to a list 

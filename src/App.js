@@ -1,4 +1,5 @@
 import React from 'react'
+import AddItemsToList from './components/AddItemsToList'
 import Forms from './components/Forms'
 import LoadingDataTrick from './components/LoadingDataTrick'
 import ShortCircuit from './components/ShortCircuit'
@@ -9,7 +10,7 @@ export default function App() {
 
   return (
     <>
-    <Forms/>
+    <AddItemsToList/>
     
     </>
   )
