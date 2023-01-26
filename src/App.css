@@ -59,3 +59,7 @@ img {
     }
 }
 
+b{
+   transform: translate(-50%, 0);
+}
+

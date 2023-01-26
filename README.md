@@ -23,3 +23,6 @@ Like AddItemsToList component, but in this component all inputs are controlled b
 
 ### UseRef
 This component uses a combination of state and refs. Both startTime and now are state variables because they are used for rendering. But we also need to hold an interval ID so that we can stop the interval on button press. Since the interval ID is not used for rendering, it’s appropriate to keep it in a ref, and manually update it.
+
+### Folder useReducer
+This folder It contains the component UseReducer that adds items to the list via the UseReducer hook and when adding the item a modal appears written on it 'item add' and after three seconds it disappears, the model is also a component

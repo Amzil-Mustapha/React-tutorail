@@ -5,7 +5,7 @@ import LoadingDataTrick from "./components/LoadingDataTrick";
 import { MultipleInputs } from "./components/MultipleInputs";
 import ShortCircuit from "./components/ShortCircuit";
 import UseEffectFetchData from "./components/UseEffectFetchData";
-import UseReducer from "./components/UseReducer";
+import UseReducer from "./components/useReducerHook/UseReducer";
 import UseRef from "./components/UseRef";
 import WindowSize from "./components/WindowSize";
 
