@@ -4,7 +4,7 @@ import { Link } from "react-router-dom";
 function AboutUs() {
   return (
     <>
-      <h1>AboutUs Page</h1>
+      <h2>AboutUs Page</h2>
     </>
 
   );
