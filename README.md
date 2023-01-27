@@ -28,4 +28,4 @@ This component uses a combination of state and refs. Both startTime and now are 
 This folder It contains the component UseReducer that adds items to the list via the UseReducer hook and when adding the item a modal appears written on it 'item added' and after three seconds it disappears, the model is also a component
 
 ### UseContext.jsx
-This Component displays how useContext Hook work white simple exemple
+This Component displays how useContext Hook work with simple exemple

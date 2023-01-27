@@ -55,5 +55,9 @@ function LevelFive() {
 
 function LevelSix() {
   const user = useContext(UserContext);
-  return <>The User Is: <b>{user}</b></>;
+  return (
+    <>
+      The User Is: <b>{user}</b>
+    </>
+  );
 }
